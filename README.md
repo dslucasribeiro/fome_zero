@@ -39,7 +39,7 @@ O CEO foi recém contratado e precisa entender melhor o negócio para conseguir 
 # 4. O produto Final do Projeto
   Painel online, hospedado em um Cloud e disponível para acesso em qualquer dispositivo conectado à internet.
   
-  O painel pode ser acessado através desse link: https:
+  O painel pode ser acessado através desse link: https://dslucasribeiro-fomezero.streamlit.app
 
 # 5. Conclusões
   O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que exibam essas métricas da melhor forma possível para o CEO.
