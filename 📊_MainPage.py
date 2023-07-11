@@ -172,7 +172,7 @@ df1 = df1.loc[line_countries_options,:]
                                     # DASHBOARD
                         # ====================================
 st.write("# Fome Zero Delivery Dashboard")
-st.markdown("## O Melhor lugar para encontrar seu mais novo restaurante favorito!")
+st.markdown("## O Melhor lugar para encontrar seu restaurante favorito!")
 st.markdown("### Temos as seguintes marcas dentro da nossa plataforma: ")
 
 with st.container():
