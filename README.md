@@ -7,39 +7,39 @@ A empresa fictícia Fome Zero é um marketplace de restaurantes, seu core busine
 O CEO foi recém contratado e precisa entender melhor o negócio para conseguir tomar as melhores decisões estratégicas e alavancar ainda mais o negócio, e para isso, ele precisa que seja feita uma análise nos dados da empresa e que sejam gerados dashboards, a partir dessas análises, para responder às seguintes perguntas:
 
 ### 2.1 Visão Geral
-  2.1.1 Quantos restaurantes únicos estão registrados?
-  2.1.2 Quantos países únicos estão registrados?
-  2.1.3 Quantas cidades únicas estão registradas?
-  2.1.4 Qual o total de avaliações feitas?
-  2.1.5 Qual o total de tipos de culinária registrados?
-  2.1.6 Uma visão geral da distribuição dos restaurantes e suas principais métricas.
+  1. Quantos restaurantes únicos estão registrados?
+  2. Quantos países únicos estão registrados?
+  3. Quantas cidades únicas estão registradas?
+  4. Qual o total de avaliações feitas?
+  5. Qual o total de tipos de culinária registrados?
+  6. Uma visão geral da distribuição dos restaurantes e suas principais métricas.
   
 ### 2.2 Visão Pais
-  2.2.1 Qual a quantidade de restaurantes por pais?
-  2.2.2 Qual a quantidade de cidades avaliadas por pais?
-  2.2.3 Quantidade de Avaliações feitas por pais?
-  2.2.4 Qual a média de preço por um prato para duas pessoas?
-  2.2.5 Quais são os paises que posuem as melhores médias de avaliações?
-  2.2.6 Quais são os paises que posuem os piores médias de avaliações?
+  1. Qual a quantidade de restaurantes por pais?
+  2. Qual a quantidade de cidades avaliadas por pais?
+  3. Quantidade de Avaliações feitas por pais?
+  4. Qual a média de preço por um prato para duas pessoas?
+  5. Quais são os paises que posuem as melhores médias de avaliações?
+  6. Quais são os paises que posuem os piores médias de avaliações?
   
 ### 2.3 Visão Cidades
-  2.3.1 Quais são as cidades que mais possuem restaurantes?
-  2.3.2 Quais são as cidades que tem sua avaliação média acima de 4?
-  2.3.3 Quais são as cidades que tem sua avaliação média menor que 2.5?
-  2.3.4 Quais são as cidades que tem a maior quantidade de culinárias?
+  1. Quais são as cidades que mais possuem restaurantes?
+  2. Quais são as cidades que tem sua avaliação média acima de 4?
+  3. Quais são as cidades que tem sua avaliação média menor que 2.5?
+  4. Quais são as cidades que tem a maior quantidade de culinárias?
   
 ### 2.4 Visão Culinária
-  2.4.1 Quais são os melhores restaurantes dos principais tipos de culinárias?
-  2.4.2 Quais são os melhores restaurantes?
-  2.4.3 Quais são os melhores tipos de culinárias?
-  2.4.4 Quais são os piores tipos de culinárias?
+  1. Quais são os melhores restaurantes dos principais tipos de culinárias?
+  2. Quais são os melhores restaurantes?
+  3. Quais são os melhores tipos de culinárias?
+  4. Quais são os piores tipos de culinárias?
   
 # 3. Premissas assumidas para a análise
-  √ Desconsiderado notas iguais a zero.
-  √ Desconsiderado valor médio por prato para duas pessoas iguais a zero.
-  √ Os valores dos pratos para duas pessoas estão dolarizados utilizando a cotação do dia 21/06/2023.
-  √ Esta sendo considerado que todos os clientes votaram.
-  √ O painel estratégico foi desenvolvido utilizando as métricas que refletem as 4 principais visões do modelo de negócio da empresa.
+  1. Desconsiderado notas iguais a zero.
+  2. Desconsiderado valor médio por prato para duas pessoas iguais a zero.
+  3. Os valores dos pratos para duas pessoas estão dolarizados utilizando a cotação do dia 21/06/2023.
+  4. Esta sendo considerado que todos os clientes votaram.
+  5. O painel estratégico foi desenvolvido utilizando as métricas que refletem as 4 principais visões do modelo de negócio da empresa.
   
 # 4. O produto Final do Projeto
   Painel online, hospedado em um Cloud e disponível para acesso em qualquer dispositivo conectado à internet.
@@ -50,6 +50,7 @@ O CEO foi recém contratado e precisa entender melhor o negócio para conseguir 
   Da visão Geral podemos ver que o principal mercado do marketplace está localizado nos Estados Unidos e India.
 
 # 6. Próximo Passos
-  √ Calcular a receita gerada por cada Pais
-  √ Criar novos filtros
-  √ Validar Hipóteses
+	Calcular a receita gerada por cada Pais
+	Criar novos filtros
+ 	Validar Hipóteses
+
